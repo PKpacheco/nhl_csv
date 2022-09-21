@@ -1,4 +1,8 @@
-# Paola Katherine 
+''' 
+Paola Katherine 
+Exercise 1 using input
+'''
+
 
 
 def calculate_salary(hours, wage):
