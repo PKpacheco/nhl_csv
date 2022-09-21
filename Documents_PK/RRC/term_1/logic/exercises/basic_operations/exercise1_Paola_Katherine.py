@@ -18,5 +18,5 @@ def calculate_salary(hours, wage):
 if __name__ == "__main__":
     hours = float(input( "Please input the hours:  "))
     wage = float(input("Please input your wage: "))
-    print_total = calculate_salary(hours, wage)
-    print(" The total pay is : " + str(print_total))
+    total_salary = calculate_salary(hours, wage)
+    print(" The total pay is : " + str(total_salary))
